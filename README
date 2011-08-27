@@ -1,0 +1,16 @@
+veos
+====
+
+Working title for open source video editor.
+
+Currently, there are no useful, cross-platform open source video editors.
+
+My fiancee is currently using Movavi, which is proprietary and full of bugs.
+
+This might well be slow in development, for several reasons:
+- I have never written a win32 GUI app (windows will have to come first for pragmatic reasons)
+- Video encoding/decoding is not my area of expertise.
+- Cross platform will have to wait until I get something working in Windows first...
+- A million other small things ...
+
+We'll see how far this goes...
